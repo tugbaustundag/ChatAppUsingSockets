@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Chat using Socket</string>
+    <string name="action_leave">Ayrılmak</string>
+    <string name="action_send">Gönder</string>
+    <string name="prompt_message">Mesaj</string>
+
+    <string name="error_connect">Bağlantı koptu</string>
+
+    <!-- messages -->
+    <string name="message_welcome">Chat Uygulamasına Hoşgeldiniz –</string>
+    <plurals name="message_participants">
+        <item quantity="one">there\'s %d participant</item>
+        <item quantity="other">Katılımcıların sayısı: %d</item>
+    </plurals>
+    <string name="message_user_joined">%s katıldı</string>
+    <string name="message_user_left">%s ayrıldı</string>
+    <string name="user_action_typing">yazıyor</string>
+
+</resources>
